@@ -1,0 +1,15 @@
+PODS:
+  - FBSnapshotTestCase/Core (2.1.4)
+  - OCMock (2.2.4)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase/Core (~> 2.1)
+  - OCMock (~> 2.2)
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  OCMock: a6a7dc0e3997fb9f35d99f72528698ebf60d64f2
+
+PODFILE CHECKSUM: 04567db0f7fe7f4b0650383d52189306cbe92df3
+
+COCOAPODS: 1.2.1
